@@ -1,2 +1,3 @@
 # typescript-journey
-Share knowlegde xD
+- TypeScript for JS Programmers
+## Types by Inference
