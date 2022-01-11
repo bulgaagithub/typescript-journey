@@ -1,1 +1,1 @@
-const name: string;
+let name: string;
