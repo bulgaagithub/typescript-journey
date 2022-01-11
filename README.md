@@ -17,3 +17,7 @@ This offers a type-system without needing to add extra characters to make types 
 That’s how TypeScript knows that helloWorld is a string in the above example.
 ```
 ### Defining Types
+### Composing Types
+### Unions
+### Generics
+### Structural Type System
