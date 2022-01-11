@@ -8,6 +8,9 @@ TypeScript will use the value as its type
 
 ```
 By understanding how JavaScript works, TypeScript can build a type-system that accepts JavaScript code but has types.
-```python
+```javascript
+let helloWorld = "Hello World";
+```
+```
 This offers a type-system without needing to add extra characters to make types explicit in your code. That’s how TypeScript knows that helloWorld is a string in the above example.
 ```
