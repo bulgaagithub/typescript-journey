@@ -11,6 +11,6 @@ By understanding how JavaScript works, TypeScript can build a type-system that a
 ```javascript
 let helloWorld = "Hello World";
 ```
-```
+```javascript
 This offers a type-system without needing to add extra characters to make types explicit in your code. That’s how TypeScript knows that helloWorld is a string in the above example.
 ```
